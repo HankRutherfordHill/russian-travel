@@ -1,0 +1,19 @@
+@media all {
+    .footer__copyright {
+        color: #fff;
+        font-size: 14px;
+    }
+}
+
+@media all and (min-width: 704px) {
+    .footer__copyright {
+        line-height: 1.14;
+    }
+}
+
+@media all and (max-width: 703px) {
+    .footer__copyright {
+        line-height: 1;
+        padding-top: 48px;
+    }
+}
