@@ -6,23 +6,27 @@
 @media all and (min-width: 1280px) {
   .cover {
     padding: 0 48px 92px;
+    min-height: 740px;
   }
 }
 
 @media all and (min-width: 1024px) and (max-width: 1279px) {
   .cover {
     padding: 0 0 92px;
+    min-height: 640px;
   }
 }
 
-@media all and (min-width: 425px) and (max-width: 1023px) {
+@media all and (min-width: 321px) and (max-width: 1023px) {
   .cover {
     padding: 0 0 88px;
+    min-height: 480px;
   }
 }
 
-@media all and (max-width: 424px) {
+@media all and (max-width: 320px) {
   .cover {
     padding: 0 0 64px;
+    min-height: 200px;
   }
 }
