@@ -18,13 +18,13 @@
   }
 }
 
-@media all and (min-width: 600px) and (max-width: 1023px) {
+@media all and (min-width: 712px) and (max-width: 1023px) {
   .places {
     padding: 0 24px 90px;
   }
 }
 
-@media all and (max-width: 599px) {
+@media all and (max-width: 711px) {
   .places {
     padding-bottom: 66px;
   }
