@@ -3,10 +3,6 @@
   display: grid;
 }
 
-.place:last-of-type {
-  padding-bottom: 0;
-}
-
 @media all and (min-width: 1280px) {
   .place {
     grid-template-columns: 460px minmax(min-content, 100%);
@@ -43,4 +39,8 @@
     row-gap: 32px;
     padding-bottom: 50px;
   }
+}
+
+.place:last-of-type {
+  padding-bottom: 0;
 }
