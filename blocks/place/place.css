@@ -29,7 +29,7 @@
     grid-template-rows: repeat(2, minmax(min-content, max-content));
     row-gap: 48px;
     column-gap: 28px;
-    padding-bottom: 73px;
+    padding-bottom: 72px;
   }
 }
 
@@ -37,7 +37,7 @@
   .place {
     grid-template-columns: minmax(min-content, 100%);
     row-gap: 32px;
-    padding-bottom: 50px;
+    padding-bottom: 52px;
   }
 }
 

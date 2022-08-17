@@ -17,7 +17,7 @@
 @media all and (max-width: 1023px) {
   .place__paragraph {    
     font-size: 16px;
-    line-height: 1.64;
+    line-height: 1.63;
   }
 
   .place__paragraph:nth-of-type(1) {
@@ -29,5 +29,9 @@
   .place__paragraph {
     padding-right: 16px;
     padding-left: 16px;
+    font-size: 15.5px;
+    letter-spacing: .25px;
+    line-height: 1.67;
+    white-space: pre;
   }
 }

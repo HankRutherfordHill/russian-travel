@@ -8,18 +8,18 @@
 
 @media all and (min-width: 1024px) {
   .lead__caption {
-    padding-top: 8px;
+    padding-top: 5px;
   }
 }
 
 @media all and (min-width: 321px) and (max-width: 1023px) {
   .lead__caption {
-    padding: 8px 0 0 24px;
+    padding: 5px 0 0 24px;
   }
 }
 
 @media all and (max-width: 320px) {
   .lead__caption {
-    padding: 8px 0 0 16px;
+    padding: 5px 0 0 16px;
   }
 }
